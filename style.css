@@ -150,10 +150,7 @@
 
 }
 
-.active{
-    background: #23242a;
 
-}
 
 .profile-open{
     display: block;
@@ -165,7 +162,9 @@
     font-size: 30px;
 }
 
-
+span{
+    font-size: 0.7rem;
+}
 
 
 .panel{

@@ -1,3 +1,8 @@
+let a=5
+console.log(a)
+
+
+
 const singins = document.querySelectorAll('.singin');
 
  //loop through all dropdown elements
@@ -17,7 +22,7 @@ const singins = document.querySelectorAll('.singin');
 
         caret.classList.toggle('caret-rotate');
 
-        profile.classList.toggle('menu-open');
+        profile.classList.toggle('profile-open');
 
     });
 
